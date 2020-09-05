@@ -7,5 +7,5 @@
 
 
 <a href='https://play.google.com/store/apps/details?id=com.innovative.canvas'>
-  <img align="top" src="https://www.vectorlogo.zone/logos/google_play/google_play-ar21.svg" />
+  <img align="right" src="https://www.vectorlogo.zone/logos/google_play/google_play-ar21.svg" />
 </a>
